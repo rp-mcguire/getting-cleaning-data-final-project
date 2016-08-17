@@ -5,7 +5,7 @@ getting-cleaning-data-project
 Getting and Cleaning Data Course Project
 ========================================
 
-Project of [Getting and Cleaning Data course on Coursera](https://www.coursera.org/course/getdata), August 2014 edition.
+Project of [Getting and Cleaning Data course on Coursera](https://www.coursera.org/course/getdata), August 2016 edition.
 
 ## Project Description
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
