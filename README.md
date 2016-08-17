@@ -44,3 +44,4 @@ You should create one R script called run_analysis.R that does the following.
   transform them
 * __README.md__: this file
 * __run_analysis.R__: R script to transform raw data set in a tidy one
+# getting-cleaning-data-final-project
